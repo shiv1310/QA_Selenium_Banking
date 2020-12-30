@@ -1,0 +1,445 @@
+2020-12-26 02:05:18,117 [main] INFO Banking website - URL entered
+2020-12-26 02:05:18,218 [main] INFO Banking website - Username entered
+2020-12-26 02:05:18,286 [main] INFO Banking website - Password entered
+2020-12-26 02:05:19,756 [main] INFO Banking website - Passed
+2020-12-26 02:12:06,856 [main] INFO Banking website - URL entered
+2020-12-26 02:12:06,961 [main] INFO Banking website - Username entered
+2020-12-26 02:12:07,027 [main] INFO Banking website - Password entered
+2020-12-26 02:12:08,463 [main] INFO Banking website - Passed
+2020-12-26 18:23:08,256 [main] INFO Banking website - URL entered
+2020-12-26 18:23:08,386 [main] INFO Banking website - Username entered
+2020-12-26 18:23:08,456 [main] INFO Banking website - Password entered
+2020-12-26 18:23:09,635 [main] INFO Banking website - Passed
+2020-12-26 18:25:13,148 [main] INFO ReadConfig - url = http://demo.guru99.com/v4/
+2020-12-26 18:25:20,484 [main] INFO Banking website - URL entered
+2020-12-26 18:25:20,600 [main] INFO Banking website - Username entered
+2020-12-26 18:25:20,661 [main] INFO Banking website - Password entered
+2020-12-26 18:25:22,287 [main] INFO Banking website - Passed
+2020-12-26 19:03:44,711 [main] INFO Banking website - URL entered
+2020-12-26 19:03:44,828 [main] INFO Banking website - Username entered
+2020-12-26 19:03:44,898 [main] INFO Banking website - Password entered
+2020-12-26 19:03:46,345 [main] INFO Banking website - Passed
+2020-12-26 19:05:42,434 [main] INFO Banking website - URL entered
+2020-12-26 19:05:42,562 [main] INFO Banking website - Username entered
+2020-12-26 19:05:42,631 [main] INFO Banking website - Password entered
+2020-12-26 19:05:46,290 [main] INFO Banking website - Passed
+2020-12-27 00:08:51,840 [main] INFO Banking website - URL entered
+2020-12-27 00:08:51,940 [main] INFO Banking website - Username entered
+2020-12-27 00:08:52,000 [main] INFO Banking website - Password entered
+2020-12-27 00:08:53,358 [main] INFO Banking website - Passed
+2020-12-27 00:10:50,734 [main] INFO Banking website - URL entered
+2020-12-27 00:10:50,849 [main] INFO Banking website - Username entered
+2020-12-27 00:10:50,928 [main] INFO Banking website - Password entered
+2020-12-27 00:25:30,273 [main] INFO Banking website - URL entered
+2020-12-27 00:25:30,385 [main] INFO Banking website - Username entered
+2020-12-27 00:25:30,459 [main] INFO Banking website - Password entered
+2020-12-27 00:38:10,476 [main] INFO Banking website - URL entered
+2020-12-27 00:38:10,594 [main] INFO Banking website - Username entered
+2020-12-27 00:38:10,672 [main] INFO Banking website - Password entered
+2020-12-27 00:39:52,829 [main] INFO Banking website - URL entered
+2020-12-27 00:39:52,939 [main] INFO Banking website - Username entered
+2020-12-27 00:39:53,013 [main] INFO Banking website - Password entered
+2020-12-27 00:41:32,414 [main] INFO Banking website - URL entered
+2020-12-27 00:41:32,527 [main] INFO Banking website - Username entered
+2020-12-27 00:41:32,593 [main] INFO Banking website - Password entered
+2020-12-27 00:41:34,250 [main] INFO Banking website - Passed
+2020-12-27 12:17:30,686 [main] INFO Banking website - URL entered
+2020-12-27 12:17:31,029 [main] INFO Banking website - Username entered
+2020-12-27 12:17:31,140 [main] INFO Banking website - Password entered
+2020-12-27 12:17:33,899 [main] INFO Banking website - Passed
+2020-12-27 12:19:02,482 [main] INFO Banking website - URL entered
+2020-12-27 12:19:02,732 [main] INFO Banking website - Username entered
+2020-12-27 12:19:02,882 [main] INFO Banking website - Password entered
+2020-12-27 12:19:04,317 [main] INFO Banking website - Passed
+2020-12-27 12:21:06,227 [main] INFO Banking website - URL entered
+2020-12-27 12:21:06,430 [main] INFO Banking website - Username entered
+2020-12-27 12:21:06,545 [main] INFO Banking website - Password entered
+2020-12-27 12:21:08,073 [main] INFO Banking website - Passed
+2020-12-27 12:21:49,515 [main] INFO Banking website - URL entered
+2020-12-27 12:21:49,792 [main] INFO Banking website - Username entered
+2020-12-27 12:21:49,916 [main] INFO Banking website - Password entered
+2020-12-27 12:21:51,238 [main] INFO Banking website - Passed
+2020-12-27 12:25:58,104 [main] INFO Banking website - URL entered
+2020-12-27 12:26:00,005 [main] INFO Banking website - user name provided
+2020-12-27 12:26:00,409 [main] INFO Banking website - password provided
+2020-12-27 12:26:04,359 [main] INFO Banking website - Login passed
+2020-12-27 12:31:04,971 [main] INFO Banking website - URL entered
+2020-12-27 12:31:06,848 [main] INFO Banking website - user name provided
+2020-12-27 12:31:07,123 [main] INFO Banking website - password provided
+2020-12-27 12:31:12,150 [main] INFO Banking website - Login passed
+2020-12-27 12:31:19,457 [main] INFO Banking website - user name provided
+2020-12-27 12:31:19,572 [main] INFO Banking website - password provided
+2020-12-27 12:31:25,267 [main] INFO Banking website - user name provided
+2020-12-27 12:31:25,398 [main] INFO Banking website - password provided
+2020-12-27 12:31:31,520 [main] INFO Banking website - user name provided
+2020-12-27 12:31:31,625 [main] INFO Banking website - password provided
+2020-12-27 12:31:37,621 [main] INFO Banking website - user name provided
+2020-12-27 12:31:37,944 [main] INFO Banking website - password provided
+2020-12-27 12:31:42,484 [main] INFO Banking website - Login passed
+2020-12-28 00:01:46,712 [main] INFO Banking website - URL entered
+2020-12-28 00:05:35,965 [main] INFO Banking website - URL entered
+2020-12-28 00:08:08,330 [main] INFO Banking website - URL entered
+2020-12-28 00:12:36,624 [main] INFO Banking website - URL entered
+2020-12-28 00:14:58,314 [main] INFO Banking website - URL entered
+2020-12-28 00:15:07,671 [main] INFO Banking website - providing customer details....
+2020-12-28 00:39:16,860 [main] INFO Banking website - URL entered
+2020-12-28 00:39:45,399 [main] INFO Banking website - URL entered
+2020-12-28 00:39:54,557 [main] INFO Banking website - providing customer details....
+2020-12-28 00:43:10,293 [main] INFO Banking website - URL entered
+2020-12-28 00:43:19,094 [main] INFO Banking website - providing customer details....
+2020-12-28 00:46:16,651 [main] INFO Banking website - URL entered
+2020-12-28 00:46:25,655 [main] INFO Banking website - providing customer details....
+2020-12-28 00:47:15,442 [main] INFO Banking website - URL entered
+2020-12-28 00:47:24,221 [main] INFO Banking website - providing customer details....
+2020-12-28 00:51:04,856 [main] INFO Banking website - URL entered
+2020-12-28 00:51:13,980 [main] INFO Banking website - providing customer details....
+2020-12-28 00:51:23,890 [main] INFO Banking website - validation started....
+2020-12-28 00:51:23,948 [main] INFO Banking website - test case passed....
+2020-12-28 01:15:03,466 [main] INFO Banking website - URL entered
+2020-12-28 10:43:57,171 [main] INFO Banking website - URL entered
+2020-12-28 10:44:01,945 [main] INFO Banking website - URL entered
+2020-12-28 11:00:10,014 [main] INFO Banking website - URL entered
+2020-12-28 11:00:12,272 [main] ERROR Banking website - Fail to highlight element
+2020-12-28 11:00:14,762 [main] INFO Banking website - URL entered
+2020-12-28 11:00:14,780 [main] ERROR Banking website - Fail to highlight element
+2020-12-28 11:01:48,457 [main] INFO Banking website - URL entered
+2020-12-28 11:01:52,708 [main] ERROR Banking website - Fail to highlight element
+2020-12-28 11:01:55,150 [main] INFO Banking website - URL entered
+2020-12-28 11:01:57,178 [main] ERROR Banking website - Fail to highlight element
+2020-12-28 11:03:38,537 [main] INFO Banking website - URL entered
+2020-12-28 11:03:47,536 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:03:48,117 [main] INFO Banking website - providing customer details....
+2020-12-28 11:03:50,174 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:03:52,385 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:03:54,553 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:01,618 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:03,744 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:05,861 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:07,988 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:10,090 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:12,197 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:14,313 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:16,414 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:20,845 [main] INFO Banking website - validation started....
+2020-12-28 11:04:20,886 [main] INFO Banking website - test case passed....
+2020-12-28 11:04:22,728 [main] INFO Banking website - URL entered
+2020-12-28 11:04:29,341 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:29,628 [main] INFO Banking website - providing customer details....
+2020-12-28 11:04:31,680 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:33,868 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:36,040 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:43,109 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:45,207 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:47,303 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:49,406 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:51,511 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:53,645 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:55,788 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:04:57,916 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:05:02,213 [main] INFO Banking website - validation started....
+2020-12-28 11:05:02,250 [main] INFO Banking website - test case passed....
+2020-12-28 11:36:28,433 [main] INFO Banking website - URL entered
+2020-12-28 11:36:37,786 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:36:38,649 [main] INFO Banking website - providing customer details....
+2020-12-28 11:36:40,699 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:36:42,907 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:36:45,085 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:36:52,149 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:36:54,247 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:36:56,344 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:36:58,443 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:00,545 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:02,676 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:04,813 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:06,915 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:11,092 [main] INFO Banking website - validation started....
+2020-12-28 11:37:11,115 [main] INFO Banking website - test case passed....
+2020-12-28 11:37:13,074 [main] INFO Banking website - URL entered
+2020-12-28 11:37:19,718 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:20,002 [main] INFO Banking website - providing customer details....
+2020-12-28 11:37:22,051 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:24,231 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:26,375 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:33,429 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:35,546 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:37,627 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:39,744 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:41,836 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:43,970 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:46,133 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:48,243 [main] INFO Banking website - Element has been highlighted
+2020-12-28 11:37:51,641 [main] INFO Banking website - validation started....
+2020-12-28 18:44:26,505 [main] INFO Banking website - URL entered
+2020-12-28 18:44:36,179 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:44:36,777 [main] INFO Banking website - providing customer details....
+2020-12-28 18:44:38,852 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:44:41,062 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:44:43,238 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:44:50,297 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:44:52,402 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:44:54,515 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:44:56,648 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:44:58,746 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:00,848 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:03,007 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:05,117 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:09,429 [main] INFO Banking website - validation started....
+2020-12-28 18:45:09,455 [main] INFO Banking website - test case passed....
+2020-12-28 18:45:10,827 [main] INFO Banking website - URL entered
+2020-12-28 18:45:17,336 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:17,636 [main] INFO Banking website - providing customer details....
+2020-12-28 18:45:19,698 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:21,880 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:24,041 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:31,087 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:33,187 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:35,269 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:37,360 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:39,456 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:41,563 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:43,696 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:45,782 [main] INFO Banking website - Element has been highlighted
+2020-12-28 18:45:49,981 [main] INFO Banking website - validation started....
+2020-12-28 18:45:50,014 [main] INFO Banking website - test case passed....
+2020-12-28 19:22:18,311 [main] INFO Banking website - URL entered
+2020-12-28 19:22:27,611 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:22:27,648 [main] INFO Banking website - providing customer details....
+2020-12-28 19:22:29,674 [main] ERROR Banking website - Fail to highlight element
+2020-12-28 19:23:31,533 [main] INFO Banking website - URL entered
+2020-12-28 19:23:37,924 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:23:38,760 [main] INFO Banking website - providing customer details....
+2020-12-28 19:23:40,804 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:23:42,956 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:23:45,113 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:23:52,161 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:23:54,304 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:23:56,406 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:23:58,506 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:24:00,619 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:24:02,738 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:24:04,916 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:24:07,039 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:24:11,666 [main] INFO Banking website - validation started....
+2020-12-28 19:24:11,730 [main] INFO Banking website - test case passed....
+2020-12-28 19:25:07,903 [main] INFO Banking website - URL entered
+2020-12-28 19:25:17,651 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:18,251 [main] INFO Banking website - providing customer details....
+2020-12-28 19:25:20,327 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:22,514 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:24,671 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:31,722 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:33,865 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:35,972 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:38,096 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:40,201 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:42,336 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:44,492 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:46,597 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:50,864 [main] INFO Banking website - validation started....
+2020-12-28 19:25:50,893 [main] INFO Banking website - test case passed....
+2020-12-28 19:25:52,546 [main] INFO Banking website - URL entered
+2020-12-28 19:25:58,939 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:25:59,226 [main] INFO Banking website - providing customer details....
+2020-12-28 19:26:01,298 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:26:03,456 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:26:05,625 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:26:12,676 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:26:14,799 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:26:16,892 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:26:18,980 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:26:21,090 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:26:23,198 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:26:25,340 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:26:27,460 [main] INFO Banking website - Element has been highlighted
+2020-12-28 19:26:31,704 [main] INFO Banking website - validation started....
+2020-12-28 19:26:31,724 [main] INFO Banking website - test case passed....
+2020-12-29 01:18:51,552 [main] INFO Banking website - URL entered
+2020-12-29 01:18:59,434 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:00,025 [main] INFO Banking website - providing customer details....
+2020-12-29 01:19:01,084 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:02,312 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:03,484 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:09,567 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:10,684 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:11,810 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:12,935 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:14,048 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:15,177 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:16,348 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:17,468 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:21,681 [main] INFO Banking website - validation started....
+2020-12-29 01:19:21,711 [main] INFO Banking website - test case passed....
+2020-12-29 01:19:23,554 [main] INFO Banking website - URL entered
+2020-12-29 01:19:28,926 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:29,215 [main] INFO Banking website - providing customer details....
+2020-12-29 01:19:30,260 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:31,454 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:32,625 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:38,693 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:39,832 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:40,964 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:42,067 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:43,195 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:44,326 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:45,475 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:46,603 [main] INFO Banking website - Element has been highlighted
+2020-12-29 01:19:50,760 [main] INFO Banking website - validation started....
+2020-12-29 01:19:50,784 [main] INFO Banking website - test case passed....
+2020-12-29 21:22:43,005 [main] INFO Banking website - URL entered
+2020-12-29 21:22:49,939 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:22:51,008 [main] INFO Banking website - providing customer details....
+2020-12-29 21:22:52,085 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:22:53,262 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:22:54,441 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:00,512 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:01,647 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:02,770 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:03,896 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:05,015 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:06,125 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:07,271 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:08,413 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:12,678 [main] INFO Banking website - validation started....
+2020-12-29 21:23:12,706 [main] INFO Banking website - test case passed....
+2020-12-29 21:23:15,074 [main] INFO Banking website - URL entered
+2020-12-29 21:23:20,459 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:20,761 [main] INFO Banking website - providing customer details....
+2020-12-29 21:23:21,819 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:22,999 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:24,187 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:30,238 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:31,340 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:32,441 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:33,552 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:34,672 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:35,822 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:36,954 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:38,068 [main] INFO Banking website - Element has been highlighted
+2020-12-29 21:23:42,416 [main] INFO Banking website - validation started....
+2020-12-29 21:23:42,438 [main] INFO Banking website - test case passed....
+2020-12-29 23:10:55,852 [main] INFO Banking website - URL entered
+2020-12-29 23:11:02,916 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:03,498 [main] INFO Banking website - providing customer details....
+2020-12-29 23:11:04,559 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:05,728 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:06,881 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:12,954 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:14,068 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:15,159 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:16,282 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:17,389 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:18,524 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:19,686 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:20,784 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:24,987 [main] INFO Banking website - validation started....
+2020-12-29 23:11:25,031 [main] INFO Banking website - test case passed....
+2020-12-29 23:11:26,573 [main] INFO Banking website - URL entered
+2020-12-29 23:11:32,164 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:32,435 [main] INFO Banking website - providing customer details....
+2020-12-29 23:11:33,481 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:34,654 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:35,804 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:41,863 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:42,949 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:44,058 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:45,165 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:46,257 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:47,374 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:48,499 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:49,611 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:11:53,861 [main] INFO Banking website - validation started....
+2020-12-29 23:11:53,880 [main] INFO Banking website - test case passed....
+2020-12-29 23:26:14,743 [main] INFO Banking website - URL entered
+2020-12-29 23:26:23,492 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:24,083 [main] INFO Banking website - providing customer details....
+2020-12-29 23:26:25,151 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:26,328 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:27,523 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:33,589 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:34,724 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:35,856 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:36,973 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:38,094 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:39,235 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:40,396 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:41,512 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:44,891 [main] INFO Banking website - validation started....
+2020-12-29 23:26:46,760 [main] INFO Banking website - URL entered
+2020-12-29 23:26:52,374 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:52,720 [main] INFO Banking website - providing customer details....
+2020-12-29 23:26:53,811 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:55,001 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:26:56,177 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:27:02,223 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:27:03,316 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:27:04,419 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:27:05,524 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:27:06,641 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:27:07,756 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:27:08,903 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:27:10,013 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:27:14,216 [main] INFO Banking website - validation started....
+2020-12-29 23:27:14,239 [main] INFO Banking website - test case passed....
+2020-12-29 23:40:25,361 [main] INFO Banking website - URL entered
+2020-12-29 23:40:34,471 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:35,053 [main] INFO Banking website - providing customer details....
+2020-12-29 23:40:36,105 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:37,271 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:38,430 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:44,484 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:45,591 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:46,715 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:47,861 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:48,969 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:50,083 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:51,238 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:52,344 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:40:56,606 [main] INFO Banking website - validation started....
+2020-12-29 23:40:56,664 [main] INFO Banking website - test case passed....
+2020-12-29 23:40:57,964 [main] INFO Banking website - URL entered
+2020-12-29 23:41:03,327 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:03,624 [main] INFO Banking website - providing customer details....
+2020-12-29 23:41:04,688 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:05,832 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:06,981 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:13,024 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:14,126 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:15,235 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:16,349 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:17,455 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:18,550 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:19,677 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:20,771 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:41:24,137 [main] INFO Banking website - validation started....
+2020-12-29 23:44:07,084 [main] INFO Banking website - URL entered
+2020-12-29 23:44:16,313 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:17,184 [main] INFO Banking website - providing customer details....
+2020-12-29 23:44:18,238 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:19,469 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:20,636 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:26,705 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:27,808 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:28,938 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:30,056 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:31,149 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:32,252 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:33,408 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:34,496 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:39,003 [main] INFO Banking website - validation started....
+2020-12-29 23:44:39,031 [main] INFO Banking website - test case passed....
+2020-12-29 23:44:40,204 [main] INFO Banking website - URL entered
+2020-12-29 23:44:45,508 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:45,782 [main] INFO Banking website - providing customer details....
+2020-12-29 23:44:46,851 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:48,030 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:49,216 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:55,267 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:56,361 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:57,465 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:58,572 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:44:59,688 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:45:00,781 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:45:01,924 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:45:03,027 [main] INFO Banking website - Element has been highlighted
+2020-12-29 23:45:07,199 [main] INFO Banking website - validation started....
+2020-12-29 23:45:07,229 [main] INFO Banking website - test case passed....
